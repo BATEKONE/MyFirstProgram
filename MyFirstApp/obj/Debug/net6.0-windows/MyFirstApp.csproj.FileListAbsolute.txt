@@ -1,0 +1,17 @@
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.csproj.AssemblyReference.cache
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\HellowWorld.Form1.resources
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.csproj.GenerateResource.cache
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.AssemblyInfoInputs.cache
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.AssemblyInfo.cs
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Visual\Projects\MyFirstApp\MyFirstApp\bin\Debug\net6.0-windows\MyFirstApp.exe
+D:\Visual\Projects\MyFirstApp\MyFirstApp\bin\Debug\net6.0-windows\MyFirstApp.deps.json
+D:\Visual\Projects\MyFirstApp\MyFirstApp\bin\Debug\net6.0-windows\MyFirstApp.runtimeconfig.json
+D:\Visual\Projects\MyFirstApp\MyFirstApp\bin\Debug\net6.0-windows\MyFirstApp.dll
+D:\Visual\Projects\MyFirstApp\MyFirstApp\bin\Debug\net6.0-windows\ref\MyFirstApp.dll
+D:\Visual\Projects\MyFirstApp\MyFirstApp\bin\Debug\net6.0-windows\MyFirstApp.pdb
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.dll
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\ref\MyFirstApp.dll
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.pdb
+D:\Visual\Projects\MyFirstApp\MyFirstApp\obj\Debug\net6.0-windows\MyFirstApp.genruntimeconfig.cache
